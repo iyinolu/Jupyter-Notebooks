@@ -1,2 +1,2 @@
 # Jupyter-Notebooks
-Mini repertoire of few data science projects i've worked on
+Mini repo of few data science projects i've worked on
